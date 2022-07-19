@@ -13,7 +13,7 @@ Compound protocol.
 
 ---
 
-Live demo: https://wallace-df.github.io/divbox-website/
+Live preview: https://wallace-df.github.io/divbox-website/
 
 ![DivBox](/preview.png?raw=true "DivBox")
 
