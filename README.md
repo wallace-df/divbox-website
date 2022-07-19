@@ -1,4 +1,7 @@
 # DivBox
+Bootstrap + JQuery landing page for DivBox.
+
+
 DivBox is a dApp that allows users to grow their ETH holdings in two ways:
 
 1. People can buy shares using ETH and sell those shares later with for a profit.
