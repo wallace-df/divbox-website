@@ -1,5 +1,5 @@
 # DivBox
-Bootstrap + JQuery landing page for DivBox.
+Landing page for DivBox built with Bootstrap and JQuery.
 
 
 DivBox is a dApp that allows users to grow their ETH holdings in two ways:
